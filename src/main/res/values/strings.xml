@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false" >Android_Dialog_Library</string>
+
+
+
+    <!-- MessageBox -->
+    <string name="private_adl_yes_button_text">Yes</string>
+    <string name="private_adl_no_button_text">No</string>
+</resources>
